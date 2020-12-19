@@ -1,0 +1,13 @@
+# ninja log v5
+0	451	1608339361538937343	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	76a74448b184a40a
+452	529	1608339361620792137	raytracer-oneweekend	a99e3b9cf518925e
+5	434	1608339601087106016	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	76a74448b184a40a
+435	504	1608339601160856898	raytracer-oneweekend	a99e3b9cf518925e
+2	374	1608339778059565997	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	76a74448b184a40a
+374	439	1608339778128784224	raytracer-oneweekend	a99e3b9cf518925e
+2	416	1608339838099707638	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	43799fd1f3e05af2
+416	483	1608339838170256804	raytracer-oneweekend	a99e3b9cf518925e
+4	791	1608340580330595918	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	43799fd1f3e05af2
+792	874	1608340580418698088	raytracer-oneweekend	a99e3b9cf518925e
+3	495	1608340928602867104	CMakeFiles/raytracer-oneweekend.dir/main.cpp.o	43799fd1f3e05af2
+496	555	1608340928665580438	raytracer-oneweekend	a99e3b9cf518925e
