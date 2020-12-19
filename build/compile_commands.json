@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/sualeh/code/raytracer-oneweekend/build",
-  "command": "/usr/bin/clang++    -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++14 -o CMakeFiles/raytracer-oneweekend.dir/main.cpp.o -c /Users/sualeh/code/raytracer-oneweekend/main.cpp",
-  "file": "/Users/sualeh/code/raytracer-oneweekend/main.cpp"
-}
-]
