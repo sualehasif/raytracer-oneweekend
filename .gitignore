@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Build files
+build/*
+build/.cmake/*
+build/.ninja_deps
+build/.ninja_log
+
+# Testing files
+Testing/*
+
+# Images
+*.ppm
+
+# Vscode
+.vscode/*
